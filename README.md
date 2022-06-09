@@ -4,4 +4,4 @@ This repository contains weekly codes of the course.
 
 1. MLP based policy in Lunar Lander environment
 2. Q Learning for Frozen Lake environment
-3. Deep Q Learning
+3. Deep Q Learning using RL-Zoo
